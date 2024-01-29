@@ -1,0 +1,34 @@
+.menu {
+    display: inline-block;
+}
+
+.menu button {
+    background-color: rgb(163, 160, 160);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.menu a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.menu .content {
+    display: none;
+    position: absolute;
+    background-color: rgb(231, 215, 215);
+    min-width: 100px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.menu:hover .content {
+    display: block;
+}
+
+.menu:hover button {
+    background-color: rgb(188, 180, 180);
+}

@@ -1,0 +1,30 @@
+#box1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative
+}
+
+#box2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+
+
+
+
+
+
+/* position: relative - onde o elemento está normalmente
+top - abaixa o elemento em relação aonde esse elemento realmente está.
+se aplica a mesma lógica em left, right e bottom 
+
+position: fixed - onde o elemento fica independente de onde ficam os outros
+elementos
+
+position: absolute - é como se fosse um ancestral, um elemento dentro de outro elemento*/

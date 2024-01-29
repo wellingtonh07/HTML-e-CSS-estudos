@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+#box1 {
+    background-color: red;
+    margin-top: 50px;
+}
+
+#box2 {
+    background-color: blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* margin: margem... 0 significa que não existe mais nenhuma margem
+em volta do elemento.
+margin-top: adiciona margem no topo do elemento
+margin-bottom: adiciona margem na parte de baixo do elemento.
+é o mesmo caso de margin-left(esquerda) e margin-right(direita)
+margin-auto: fica no centro da página
+ */

@@ -1,0 +1,14 @@
+div {
+    background-color: red;
+}
+
+span {
+    background-color: blue;
+}
+
+
+
+
+
+/* div ocupa toda a largura da tela, ou seja, display block por padrão.
+span ocupa só a parte em redor dele, ou seja, display inline. */

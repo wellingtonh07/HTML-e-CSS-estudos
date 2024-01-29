@@ -1,0 +1,25 @@
+h1 {
+    border: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+p {
+    border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
+/* border: borda
+border-width: largura da borda
+border-color: cor da borda
+border-radius: arredonda a borda
+
+border 2px solid black: forma abreviada do exemplo de borda do h1 */

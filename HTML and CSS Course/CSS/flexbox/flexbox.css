@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    font-size: 8em;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: yellow;
+}
+
+#box3 {
+    background-color: green;
+}
+
+#box4 {
+    background-color: blue;
+}
+
+
+
+
+/* display: flex - muda o posicionamento dos elementos deixando um do lado do outro.
+flex-direction: row-reverse; - troca a ordem dos elementos... flex-direction: row, coloca eles
+numa linha só.
+
+justify-content - alinha o elemento na ordem desejada, seja no inicio, no fim ou no centro.
+
+tem muita coisa nesse flexbox pra aprender, com o tempo da pra ir aprendendo sobre as outras coisas 
+relacionadas ao flexbox /*

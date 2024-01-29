@@ -1,0 +1,24 @@
+a:link {
+    color: rgb(112, 112, 248);
+}
+
+a:hover {
+    color: red;
+    font-size: 2em;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
+
+
+
+
+
+
+/* :link - muda a cor de um link
+:hover - quando o mouse passa em cima do elemento, os estilos são aplicados /*

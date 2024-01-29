@@ -1,0 +1,17 @@
+h1 {
+    font-family: Roboto, sans-serif;
+}
+
+p {
+    font-family: "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+/* font-family: define a fonte
+font-size: tamanho da fonte
+font-weight: tipo da fonte
+font-style: estilo da fonte */

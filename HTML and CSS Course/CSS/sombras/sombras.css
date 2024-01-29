@@ -1,0 +1,26 @@
+h1 {
+    text-shadow: 1px 1px 3px red, -1px -1px 3px blue ;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    box-shadow: 3px 3px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* text shadow: sombra de texto. 1px de deslocamento
+horizontal e 1px de deslocamento vertical. 3px seria o borrão.
+pode-se também fazer outra sombra, depois primeira, basta usar a vírgula */

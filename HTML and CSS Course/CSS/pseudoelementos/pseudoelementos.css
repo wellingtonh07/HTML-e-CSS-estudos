@@ -1,0 +1,22 @@
+h1::first-letter {
+    font-size: 2em;
+    font-style: italic;
+}
+
+p::first-line {
+    background-color: yellow;
+}
+
+p::selection {
+    color: green;
+    background-color: gray;
+}
+
+
+
+
+
+
+/* ::first-letter - primeira letra apenas
+::first-line - primeira linha apenas
+::selection - entra em ação quando é clicado o botão esquerdo do mouse

@@ -1,0 +1,21 @@
+.paginaçao {
+    text-align: center;
+}
+
+.paginaçao a {
+    color: black;
+    text-decoration: none;
+    padding: 8px 15px;
+    display: inline-block;
+}
+
+.paginaçao a.active {
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.paginaçao a:hover:not(.active) {
+    background-color: gray;
+    border-radius: 5px;
+}
